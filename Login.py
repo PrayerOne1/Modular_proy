@@ -18,4 +18,3 @@ tk.Button(root, text="Login", command = None).pack(pady=30)
 tk.Button(root, text="Cancel", command = root.destroy).pack(pady=30)
 
 root.mainloop()
-
